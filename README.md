@@ -1,9 +1,9 @@
 # SQL
-Project "Base for an online store" in SQL: (Debian, PostgreSQL, pgAdmin)
+Project "Base for an online store" in SQL: (Linux, PostgreSQL, pgAdmin)
 
 Hey there! 👋
 
-I'm working on a practical project showcasing my skills in Linux Debian 11 🐧, command-line operations 💻, software installation & removal 📦, and PostgreSQL 🛢️.
+I'm working on a practical project showcasing my skills in Linux  🐧, command-line operations 💻, software installation & removal 📦, and PostgreSQL 🛢️.
 
 In this project, I will:
 ✅ Create a database and users 👤
