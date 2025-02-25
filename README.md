@@ -1,4 +1,4 @@
-# Project: Infrastructure Setup (Linux, PostgreSQL, pgAdmin)
+# Infrastructure Setup (Linux, PostgreSQL, pgAdmin)
 
 ## Overview
 This project demonstrates the deployment of PostgreSQL and pgAdmin on a VPS/VDS using Docker Compose. The goal was to automate the installation and configuration process, ensuring a streamlined and efficient setup. The work was carried out according to the planned schedule and successfully completed.
