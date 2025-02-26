@@ -17,9 +17,9 @@ ssh root@your_server_ip
 
 ### Step 2: Run the Setup Script
 ```sh
-wget -O ./1_postgres.sh https://raw.githubusercontent.com/admin404nextfloor/SQL/master/1_postgres.sh \
-&& chmod +x 1_postgres.sh \
-&& ./1_postgres.sh
+wget -O ./1_postgres.sh https://raw.githubusercontent.com/admin404nextfloor/SQL/master/postgres_setup_ubuntu.sh \
+&& chmod +x postgres_setup_ubuntu.sh \
+&& ./postgres_setup_ubuntu.sh
 ```
 This script will:
 - Update system packages
