@@ -1,4 +1,13 @@
 # Infrastructure Setup (Linux, PostgreSQL, pgAdmin)
+# Infrastructure Setup (Linux, PostgreSQL, pgAdmin)
+
+[![Linux](https://img.shields.io/badge/OS-Linux-yellow?logo=linux&style=flat-square)](https://ubuntu.com/)
+[![Docker](https://img.shields.io/badge/Container-Docker-blue?logo=docker&style=flat-square)](https://www.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/Orchestration-Docker--Compose-2496ED?logo=docker&style=flat-square)](https://docs.docker.com/compose/)
+[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&style=flat-square)](https://www.postgresql.org/)
+[![pgAdmin](https://img.shields.io/badge/Tool-pgAdmin-orange?style=flat-square)](https://www.pgadmin.org/)
+[![Bash](https://img.shields.io/badge/Scripting-Bash-blue?logo=gnu-bash&style=flat-square)](https://www.gnu.org/software/bash/)
+[![SSH](https://img.shields.io/badge/Access-SSH-lightgrey?logo=openssh&style=flat-square)](https://www.openssh.com/)
 
 ## Overview
 This project demonstrates the deployment of PostgreSQL and pgAdmin on a VPS/VDS using Docker Compose. The goal was to automate the installation and configuration process, ensuring a streamlined and efficient setup. The work was carried out according to the planned schedule and successfully completed.
