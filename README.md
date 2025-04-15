@@ -1,5 +1,4 @@
 # Infrastructure Setup (Linux, PostgreSQL, pgAdmin)
-# Infrastructure Setup (Linux, PostgreSQL, pgAdmin)
 
 [![Linux](https://img.shields.io/badge/OS-Linux-yellow?logo=linux&style=flat-square)](https://ubuntu.com/)
 [![Docker](https://img.shields.io/badge/Container-Docker-blue?logo=docker&style=flat-square)](https://www.docker.com/)
