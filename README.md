@@ -62,7 +62,4 @@ This script will:
 - Simplified user experience with preconfigured credentials
 
 
----
-This project serves as a reference for setting up and automating database infrastructure on a VPS using Docker! 🚀
-
 
